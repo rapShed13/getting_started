@@ -1,4 +1,4 @@
-Lorem ipsum dolor sit amet, HELLO
+Lorem ipsum dolor sit amet
 consectetuer adipiscing elit.
 Anene commodo ligula eget dolor.
 massa.
